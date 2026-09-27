@@ -2,38 +2,39 @@
 
 > **Eaglercraft, refined.**
 
-Moonstruck is a closed-source EaglercraftX 1.8 client focused on performance, customization, quality-of-life features, and a cleaner overall experience.
-Unlike some other alternative clients out there, our focus is on making a premium product rather than a half-finished, discontinued, outdated client.
+Moonstruck is a closed-source EaglercraftX 1.8 client built around performance, customization, and useful quality-of-life features.
 
-Built as a single standalone HTML file.
+No giant feature dump. No unnecessary bloat. Just a better client.
 
-**b11**  
-A project of **Somebody0001**
+**Current release:** `b11`  
+**Project by:** `Somebody0001`
 
 ---
 
 ## What is Moonstruck?
 
-Moonstruck takes the standard Eaglercraft experience and builds on it without turning the client into a bloated mess.
+Moonstruck builds on EaglercraftX without trying to replace what already works.
 
-Better performance controls. Better UI. Better customization. More useful tools.
+It adds a cleaner interface, performance tools, client-side customization, recovery features, and a private authenticated launch system while keeping the core Minecraft experience intact.
 
-Still Minecraft. Still Eaglercraft. Still fun.
+**Still Minecraft. Still Eaglercraft. Just sharper.**
 
-### Moonstruck vs. Vanilla
+---
+
+## Moonstruck vs. Vanilla
 
 | Feature | Vanilla Eaglercraft | Moonstruck |
 |---|:---:|:---:|
 | Standalone HTML | ✓ | ✓ |
 | Multiplayer + Singleplayer | ✓ | ✓ |
-| Moonstruck Modules | — | ✓ |
+| Module system | — | ✓ |
 | Custom HUD | — | ✓ |
 | Performance presets | — | ✓ |
 | Performance Lab | — | ✓ |
 | Advanced chunk scheduling | — | ✓ |
 | Smart Reconnect | — | ✓ |
 | Last Server | — | ✓ |
-| Media / Screenshot Gallery | Basic | ✓ |
+| Screenshot / Media Gallery | Basic | ✓ |
 | Custom attack & crit particles | — | ✓ |
 | Local cosmetics | — | ✓ |
 | 3D skin layers | — | ✓ |
@@ -41,40 +42,68 @@ Still Minecraft. Still Eaglercraft. Still fun.
 | Texture filtering controls | — | ✓ |
 | Config backup / import / export | — | ✓ |
 | Recovery Mode | — | ✓ |
-| Private account authentication | — | ✓ |
+| Private authentication | — | ✓ |
 | Encrypted client payload | — | ✓ |
 
 ---
 
-## Run it
+## Run
 
-Download:
+Grab `Moonstruck_b11.html` from this repository and open it in a supported Chromium-based browser.
 
-```text
-Moonstruck_b11.html
-```
-Open it in a supported Chromium-based browser.
-That's it.
-Moonstruck requires an internet connection during startup for authentication.
-Private Authentication
-Moonstruck b11 uses its own account system.
-A valid Moonstruck username and password are required before the client will start.
-The distributed client payload is encrypted and is only decrypted in memory after successful authentication.
-This is intended to discourage casual modification and unauthorized redistribution. It is not claimed to be unbreakable DRM.
-Philosophy
-No shader rabbit holes.
-No built-in resource-pack bloat.
-No pointless features just to make the list longer.
-Moonstruck is built around features that actually improve the client.
-Source Code
-Moonstruck is closed source.
-This repository distributes the compiled standalone client only. Source code is not included.
-Please do not redistribute modified builds as official Moonstruck releases.
-Credits
-Moonstruck is built on EaglercraftX 1.8 and Minecraft 1.8.
+**That's it.**
+
+An internet connection is required during startup for Moonstruck authentication.
+
+---
+
+## Authentication
+
+Moonstruck b11 uses a private account system.
+
+A valid Moonstruck username and password are required before the client starts. The packaged client payload is encrypted and decrypted in memory after successful authentication.
+
+This is designed to make casual tampering and unofficial redistribution harder — not to pretend client-side software is impossible to reverse engineer.
+
+---
+
+## Built Different
+
+Moonstruck is intentionally focused.
+
+- No built-in resource-pack bloat
+- No shader rabbit hole
+- No feature spam for the sake of a bigger list
+- No abandoned half-working systems
+
+If a feature ships, it should have a reason to exist.
+
+---
+
+## Source
+
+Moonstruck is **closed source**.
+
+This repository contains the compiled standalone client only. Source code is not distributed.
+
+Modified builds should not be represented as official Moonstruck releases.
+
+---
+
+## Credits
+
+Moonstruck is built on **EaglercraftX 1.8** and **Minecraft 1.8**.
+
 Third-party components remain the property of their respective authors and are credited where applicable.
-<p align="center">
-  <b>MOONSTRUCK</b><br>
-  <sub>a project of Somebody0001</sub>
-</p>
-```
+
+---
+
+<div align="center">
+
+### MOONSTRUCK
+
+**a project of Somebody0001**
+
+`b11`
+
+</div>
