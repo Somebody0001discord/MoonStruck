@@ -63,20 +63,7 @@ Moonstruck b11 uses a private account system.
 
 A valid Moonstruck username and password are required before the client starts. The packaged client payload is encrypted and decrypted in memory after successful authentication.
 
-This is designed to make casual tampering and unofficial redistribution harder — not to pretend client-side software is impossible to reverse engineer.
-
----
-
-## Built Different
-
-Moonstruck is intentionally focused.
-
-- No built-in resource-pack bloat
-- No shader rabbit hole
-- No feature spam for the sake of a bigger list
-- No abandoned half-working systems
-
-If a feature ships, it should have a reason to exist.
+This is designed to make casual tampering and unofficial redistribution harder. Do not attempt to reverse-engineer. You know who I'm talking about.
 
 ---
 
