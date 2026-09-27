@@ -52,3 +52,29 @@ Download:
 
 ```text
 Moonstruck_b11.html
+```
+Open it in a supported Chromium-based browser.
+That's it.
+Moonstruck requires an internet connection during startup for authentication.
+Private Authentication
+Moonstruck b11 uses its own account system.
+A valid Moonstruck username and password are required before the client will start.
+The distributed client payload is encrypted and is only decrypted in memory after successful authentication.
+This is intended to discourage casual modification and unauthorized redistribution. It is not claimed to be unbreakable DRM.
+Philosophy
+No shader rabbit holes.
+No built-in resource-pack bloat.
+No pointless features just to make the list longer.
+Moonstruck is built around features that actually improve the client.
+Source Code
+Moonstruck is closed source.
+This repository distributes the compiled standalone client only. Source code is not included.
+Please do not redistribute modified builds as official Moonstruck releases.
+Credits
+Moonstruck is built on EaglercraftX 1.8 and Minecraft 1.8.
+Third-party components remain the property of their respective authors and are credited where applicable.
+<p align="center">
+  <b>MOONSTRUCK</b><br>
+  <sub>a project of Somebody0001</sub>
+</p>
+```
