@@ -9,6 +9,8 @@ No giant feature dump. No unnecessary bloat. Just a better client.
 **Current release:** `b12`  
 **Project by:** `Somebody0001`
 
+**Next release:** `b14`
+
 ---
 
 ## What is Moonstruck?
