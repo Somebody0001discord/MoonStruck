@@ -6,7 +6,7 @@ Moonstruck is a closed-source EaglercraftX 1.8 client built around performance, 
 
 No giant feature dump. No unnecessary bloat. Just a better client.
 
-**Current release:** `b11`  
+**Current release:** `b12`  
 **Project by:** `Somebody0001`
 
 ---
@@ -91,6 +91,6 @@ Third-party components remain the property of their respective authors and are c
 
 **a project of Somebody0001**
 
-`b11`
+`b12`
 
 </div>
