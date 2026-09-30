@@ -32,6 +32,10 @@ A closed-source Eaglercraft client focused on performance, customization, and qu
 
 ---
 
+When out of beta phase, might possibly remove user auth so anyone can use it without user/pass check.
+
+---
+
 ## Run
 
 Download the latest Moonstruck `.html` from this repository and open it in a supported Chromium-based browser.
@@ -44,7 +48,8 @@ An internet connection is required during startup for authentication.
 
 ## Authentication
 
-Moonstruck uses a private account system. The client payload stays encrypted until authentication succeeds, then loads in memory.
+Moonstruck uses a private account system. The client stays encrypted until authentication succeeds, then loads in memory.
+This makes sure *some* people don't try to steal credits.
 
 ---
 
