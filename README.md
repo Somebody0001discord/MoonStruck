@@ -33,7 +33,9 @@ A closed-source Eaglercraft client focused on performance, customization, and qu
 
 ---
 
-When out of beta phase, might possibly remove user auth so anyone can use it without user/pass check.
+When out of beta phase, there are 2 routes in which only one might happen:
+1. Might remove user auth so anyone can use it without user/pass check.
+2. Make anyone openly make accounts
 
 ---
 
