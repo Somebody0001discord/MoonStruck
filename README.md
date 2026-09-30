@@ -2,70 +2,49 @@
 
 > **Eaglercraft, refined.**
 
-Moonstruck is a closed-source EaglercraftX 1.8 client built around performance, customization, and useful quality-of-life features.
+A closed-source Eaglercraft client focused on performance, customization, and quality-of-life.
 
-No giant feature dump. No unnecessary bloat. Just a better client.
-
-**Current release:** `b12`  
+**Current:** `b12` · **Next:** `b14`  
 **Project by:** `Somebody0001`
 
-**Next release:** `b14`
-
 ---
 
-## What is Moonstruck?
+## Highlights
 
-Moonstruck builds on EaglercraftX without trying to replace what already works.
-
-It adds a cleaner interface, performance tools, client-side customization, recovery features, and a private authenticated launch system while keeping the core Minecraft experience intact.
-
-**Still Minecraft. Still Eaglercraft. Just sharper.**
-
----
-
-## Moonstruck vs. Vanilla
-
-| Feature | Vanilla Eaglercraft | Moonstruck |
+| Feature | Vanilla | Moonstruck |
 |---|:---:|:---:|
-| Standalone HTML | ✓ | ✓ |
-| Multiplayer + Singleplayer | ✓ | ✓ |
-| Module system | — | ✓ |
-| Custom HUD | — | ✓ |
-| Performance presets | — | ✓ |
-| Performance Lab | — | ✓ |
-| Advanced chunk scheduling | — | ✓ |
-| Smart Reconnect | — | ✓ |
-| Last Server | — | ✓ |
+| Performance Lab + advanced chunk scheduling | — | ✓ |
+| Custom HUD + Liquid Glass UI | — | ✓ |
+| Smart Reconnect + Last Server | — | ✓ |
+| 3D skins, particles + local cosmetics | — | ✓ |
 | Screenshot / Media Gallery | Basic | ✓ |
-| Custom attack & crit particles | — | ✓ |
-| Local cosmetics | — | ✓ |
-| 3D skin layers | — | ✓ |
-| Entity culling | — | ✓ |
-| Texture filtering controls | — | ✓ |
-| Config backup / import / export | — | ✓ |
-| Recovery Mode | — | ✓ |
-| Private authentication | — | ✓ |
+| Config backup + Recovery Mode | — | ✓ |
+| Private authenticated launch | — | ✓ |
 | Encrypted client payload | — | ✓ |
+
+### Coming in b14
+
+- **Minecraft 1.8.8 + 1.12.2**
+- **Built-in Wispcraft**
+- **External-mouse / camera stabilization**
+- **Automatic update notifications**
+- **Major 1.12.2 feature parity**
 
 ---
 
 ## Run
 
-Grab `Moonstruck_b11.html` from this repository and open it in a supported Chromium-based browser.
+Download the latest Moonstruck `.html` from this repository and open it in a supported Chromium-based browser.
 
 **That's it.**
 
-An internet connection is required during startup for Moonstruck authentication.
+An internet connection is required during startup for authentication.
 
 ---
 
 ## Authentication
 
-Moonstruck b11 uses a private account system.
-
-A valid Moonstruck username and password are required before the client starts. The packaged client payload is encrypted and decrypted in memory after successful authentication.
-
-This is designed to make casual tampering and unofficial redistribution harder. Do not attempt to reverse-engineer. You know who I'm talking about.
+Moonstruck uses a private account system. The client payload stays encrypted until authentication succeeds, then loads in memory.
 
 ---
 
@@ -73,17 +52,15 @@ This is designed to make casual tampering and unofficial redistribution harder. 
 
 Moonstruck is **closed source**.
 
-This repository contains the compiled standalone client only. Source code is not distributed.
-
-Modified builds should not be represented as official Moonstruck releases.
+This repository distributes compiled standalone builds only. Modified builds should not be represented as official Moonstruck releases.
 
 ---
 
 ## Credits
 
-Moonstruck is built on **EaglercraftX 1.8** and **Minecraft 1.8**.
+Built on **EaglercraftX** and **Minecraft**.
 
-Third-party components remain the property of their respective authors and are credited where applicable.
+Third-party components are credited where applicable.
 
 ---
 
