@@ -14,6 +14,7 @@ A closed-source Eaglercraft client focused on performance, customization, and qu
 | Feature | Vanilla | Moonstruck |
 |---|:---:|:---:|
 | Performance Lab + advanced chunk scheduling | — | ✓ |
+| PvP client features | — | ✓ |
 | Custom HUD + Liquid Glass UI | — | ✓ |
 | Smart Reconnect + Last Server | — | ✓ |
 | 3D skins, particles + local cosmetics | — | ✓ |
