@@ -29,7 +29,7 @@ A closed-source Eaglercraft client focused on performance, customization, and qu
 - **Built-in Wispcraft**
 - **External-mouse / camera stabilization**
 - **Automatic update notifications**
-- **Major 1.12.2 feature parity**
+- **1.12.2 client**
 
 ---
 
