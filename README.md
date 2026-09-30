@@ -66,7 +66,7 @@ This repository distributes compiled standalone builds only. Modified builds sho
 
 ## Credits
 
-Built on **EaglercraftX** and **Minecraft**.
+Built on **EaglercraftX**.
 
 Third-party components are credited where applicable.
 
