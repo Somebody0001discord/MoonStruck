@@ -20,7 +20,7 @@ A closed-source Eaglercraft client focused on performance, customization, and qu
 | Screenshot / Media Gallery | Basic | ✓ |
 | Config backup + Recovery Mode | — | ✓ |
 | Private authenticated launch | — | ✓ |
-| Encrypted client payload | — | ✓ |
+| Secure encrypted client | — | ✓ |
 
 ### Coming in b14
 
