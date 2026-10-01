@@ -4,7 +4,7 @@
 
 A closed-source Eaglercraft client focused on performance, customization, and quality-of-life.
 
-**Current:** `b14` · **Next:** `?`  
+**Current:** `b14` · **Next:** `b15`  
 **Project by:** `Somebody0001`
 
 ---
@@ -36,6 +36,10 @@ A closed-source Eaglercraft client focused on performance, customization, and qu
 When out of beta phase, there are 2 routes in which only one might happen:
 1. Might remove user auth so anyone can use it without user/pass check.
 2. Make anyone openly make accounts
+
+---
+
+Old Moonstruck builds can be disabled for certain reasons at my will. Possible reasons for disabling access to old Moonstruck would be extreme errors, flaws, or unintended functions. This means I can absolutely stop giving decryption key's to Moonstruck builds (All builds are encrypted and can only be used when the backend server authorizes them for security).
 
 ---
 
