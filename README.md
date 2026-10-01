@@ -39,10 +39,6 @@ When out of beta phase, there are 2 routes in which only one might happen:
 
 ---
 
-Old Moonstruck builds can be disabled for certain reasons at my will. Possible reasons for disabling access to old Moonstruck would be extreme errors, flaws, or unintended functions. This means I can absolutely stop giving decryption key's to Moonstruck builds (All builds are encrypted and can only be used when the backend server authorizes them for security).
-
----
-
 ## Run
 
 Download the latest Moonstruck `.html` from this repository and open it in a supported Chromium-based browser.
@@ -76,6 +72,9 @@ Third-party components are credited where applicable.
 
 ---
 
+Old Moonstruck builds can be disabled for certain reasons at my will. Possible reasons for disabling access to old Moonstruck would be extreme errors, flaws, or unintended functions. This means I can absolutely stop giving decryption key's to Moonstruck builds (All builds are encrypted and can only be used when the backend server authorizes them for security).
+
+---
 <div align="center">
 
 ### MOONSTRUCK
