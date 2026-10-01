@@ -4,7 +4,7 @@
 
 A closed-source Eaglercraft client focused on performance, customization, and quality-of-life.
 
-**Current:** `b12` · **Next:** `b14`  
+**Current:** `b14` · **Next:** `?`  
 **Project by:** `Somebody0001`
 
 ---
@@ -23,7 +23,7 @@ A closed-source Eaglercraft client focused on performance, customization, and qu
 | Private authenticated launch | — | ✓ |
 | Secure encrypted client | — | ✓ |
 
-### Coming in b14
+### With b14
 
 - **Minecraft 1.8.8 + 1.12.2**
 - **Built-in Wispcraft**
@@ -78,6 +78,6 @@ Third-party components are credited where applicable.
 
 **a project of Somebody0001**
 
-`b12`
+`b14`
 
 </div>
