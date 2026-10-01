@@ -3,18 +3,18 @@
     "release":  "b14",
     "releaseNumber":  14,
     "status":  "stable",
-    "publishedAt":  "2026-09-30T23:32:51.1940442Z",
+    "publishedAt":  "2026-10-01T00:27:12.8703281Z",
     "message":  "Moonstruck b14 is available.",
     "targets":  {
                     "1.8.8":  {
                                   "file":  "Moonstruck_b14_1.8.8.html",
-                                  "sha256":  "1650def3ead2a543923e35334e7b73d32b81e3ff4940b4e3ece766a8e86d48e8",
-                                  "buildHash":  "9f5d76f02d9e7036d283a06a043b395562b519c5251fb946773726c14066c7c3"
+                                  "sha256":  "92546c599ddddcb3f664f6f13c623c82fb15aae41b9f4978a51761a66f03a7b1",
+                                  "buildHash":  "84dd5fa0e3d6e6d83aec7fcefe45400b84a9bf1a82caab1e7c9f80487dd61b91"
                               },
                     "1.12.2":  {
                                    "file":  "Moonstruck_b14_1.12.2.html",
-                                   "sha256":  "88e8bc5cc1333c883d32a6d200b9d0f34d98cdf3da60763d8dd3f10d4954b030",
-                                   "buildHash":  "4124a86883b47f1cbccb7401093658a65e0eff958bbd9f058fdba85895c01596"
+                                   "sha256":  "06e7e8ae4e080ba8a7079220ce8315072c6c0fb1e6689eb12690a4e814ca057d",
+                                   "buildHash":  "8f4307161e938b6c4e9ef21632d45349f552bd93dadd0c1c33060504c656fbd8"
                                }
                 }
 }
