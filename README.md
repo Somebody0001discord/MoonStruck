@@ -4,7 +4,7 @@
 
 A closed-source Eaglercraft client focused on performance, customization, and quality-of-life.
 
-**Current:** `b17` · **Next:** `b18`  
+**Current:** `b18` · **Next:** `b19`  
 **Project by:** `Somebody0001`
 
 ---
