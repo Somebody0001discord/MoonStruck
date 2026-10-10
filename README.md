@@ -4,7 +4,7 @@
 
 A closed-source Eaglercraft client focused on performance, customization, and quality-of-life.
 
-**Current:** `b18` · **Next:** `b19`  
+**Current:** `b18` · **Next:** `OFFICIAL RELEASE OUT OF BETA REAL 100% NO SCAM TRUE NOT FAKE`  
 **Project by:** `Somebody0001`
 
 ---
@@ -81,6 +81,6 @@ Old Moonstruck builds can be disabled for certain reasons at my will. Possible r
 
 **a project of Somebody0001**
 
-`b14`
+`b18`
 
 </div>
