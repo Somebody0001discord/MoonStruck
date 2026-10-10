@@ -23,13 +23,12 @@ A closed-source Eaglercraft client focused on performance, customization, and qu
 | Private authenticated launch | — | ✓ |
 | Secure encrypted client | — | ✓ |
 
-### With b14
+### Want sneak peeks?
+Read latest-release.json for sneak peeks.
 
-- **Minecraft 1.8.8 + 1.12.2**
-- **Built-in Wispcraft**
-- **External-mouse / camera stabilization**
-- **Automatic update notifications**
-- **1.12.2 client**
+
+## Want to help make the newest version?
+Test the 1.12.2 html files (which can be buggier) so I can fix the issues!
 
 ---
 
