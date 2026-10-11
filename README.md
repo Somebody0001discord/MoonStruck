@@ -63,11 +63,11 @@ Fresh installations start with **fog off**, **VSync on**, and **Background Effic
 **Moonlight Mondays** bring feature updates.  
 **Bugfix Fridays** focus on fixes.
 
-When reporting a bug, include your Moonstruck version, Minecraft version, browser, and steps to reproduce it. Screenshots help with visual issues.
-
 ## Credits
 
 Created by **Somebody0001**. Built on **EaglercraftX**.
+
+Third-party components are credited where applicable. Moonstruck is closed source; this repository distributes official standalone builds.
 
 ---
 
