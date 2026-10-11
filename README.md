@@ -1,85 +1,81 @@
-# Moonstruck
+<div align="center">
 
-> **Eaglercraft, refined.**
+# MOONSTRUCK
 
-A closed-source Eaglercraft client focused on performance, customization, and quality-of-life.
+**Eaglercraft, refined.**
 
-**Current:** `b18` · **Next:** `OFFICIAL RELEASE OUT OF BETA REAL 100% NO SCAM TRUE NOT FAKE`  
-**Project by:** `Somebody0001`
+A standalone Eaglercraft client focused on PvP, customization, performance controls, and everyday quality of life.
 
----
+**1.1.20 · Minecraft 1.8.8 / 1.12.2**
 
-## Highlights
+A project of **Somebody0001**
 
-| Feature | Vanilla | Moonstruck |
-|---|:---:|:---:|
-| Performance Lab + advanced chunk scheduling | — | ✓ |
-| PvP client features | — | ✓ |
-| Custom HUD + Liquid Glass UI | — | ✓ |
-| Smart Reconnect + Last Server | — | ✓ |
-| 3D skins, particles + local cosmetics | — | ✓ |
-| Screenshot / Media Gallery | Basic | ✓ |
-| Config backup + Recovery Mode | — | ✓ |
-| Private authenticated launch | — | ✓ |
-| Secure encrypted client | — | ✓ |
-
-### Want sneak peeks?
-Read latest-release.json for sneak peeks.
-
-
-## Want to help make the newest version?
-Test the 1.12.2 html files (which can be buggier) so I can fix the issues!
+</div>
 
 ---
 
-When out of beta phase, there are 2 routes in which only one might happen:
-1. Might remove user auth so anyone can use it without user/pass check.
-2. Make anyone openly make accounts
+> **Release notice**
+>
+> The **1.1.20 HTML download is coming soon**.
+> **b18 will be retired on October 12, 2026.** Update when the new file becomes available.
 
----
+## Features
 
-## Run
+**73 modules. 277 settings. A client you can make your own.**
 
-Download the latest Moonstruck `.html` from this repository and open it in a supported Chromium-based browser.
+| Area | Highlights |
+| :--- | :--- |
+| **HUD & PvP** | FPS, ping, CPS, keystrokes, armor, potion effects, target information, combos, and consumable counters. |
+| **Visuals** | Custom crosshairs, particles, Viewmodel controls, hurt-camera adjustments, hit tint, enchantment glint, and custom hotbar styling. |
+| **Inventory** | Mouse Tweaks, Food Information, Smooth Inventory Movement, and individual setting resets. |
+| **Gameplay** | Toggle Sprint, Zoom, Freelook, projectile trails, estimated TNT timers, and block-breaking progress. |
+| **Chat & reconnect** | Chat Heads, message search, copying, timestamps, Last Server, and reconnect controls. |
+| **Performance controls** | Performance presets, Performance Lab, and Background Efficiency with temporary audio muting until refocused. |
+| **Personalization & tools** | Liquid Glass UI, adjustable HUD layouts, resource packs, 3D skin layers, local cosmetics, screenshots, and recording controls. |
+| **Configuration** | Automatic settings saving, configuration import/export, backups, and Recovery Mode. |
 
-**That's it.**
+## Getting started
 
-An internet connection is required during startup for authentication.
+Once the 1.1.20 download is available:
 
----
+1. Download the Moonstruck `.html` file from this repository using **Download raw file**.
+2. Open the downloaded file in a recent version of **Chrome or Edge**.
+3. Sign in with your **Moonstruck account**.
+4. Choose **Singleplayer** or **Multiplayer**.
 
-## Authentication
+An internet connection is required to sign in at each launch. Need an account or help accessing the client? Contact **Somebody0001**.
 
-Moonstruck uses a private account system. The client stays encrypted until authentication succeeds, then loads in memory.
-This makes sure *some* people don't try to steal credits.
+## Make it yours
 
----
+- **Right Shift** opens Modules. A Modules button is also available on the main menu.
+- Use **search and categories** to find features, then open **Options** to customize them.
+- Use **Edit HUD** to move, resize, fade, layer, and lock HUD elements.
+- Open **Keybinds** to assign shortcuts.
+- Import compatible resource-pack ZIPs through **Options → Resource Packs**.
+- Export your settings through **Presets / Gallery → Config Backup**.
 
-## Source
+Normal settings save automatically in your browser. Back up your configuration before clearing browser data or switching browsers. Worlds, resource packs, and media require separate backups.
 
-Moonstruck is **closed source**.
+Fresh installations start with **fog off**, **VSync on**, and **Background Efficiency on**. Existing saved preferences are preserved.
 
-This repository distributes compiled standalone builds only. Modified builds should not be represented as official Moonstruck releases.
+## Updates & support
 
----
+**Moonlight Mondays** bring feature updates.  
+**Bugfix Fridays** focus on fixes.
+
+When reporting a bug, include your Moonstruck version, Minecraft version, browser, and steps to reproduce it. Screenshots help with visual issues.
 
 ## Credits
 
-Built on **EaglercraftX**.
+Created by **Somebody0001**. Built on **EaglercraftX**.
 
-Third-party components are credited where applicable.
-
----
-
-Old Moonstruck builds can be disabled for certain reasons at my will. Possible reasons for disabling access to old Moonstruck would be extreme errors, flaws, or unintended functions. This means I can absolutely stop giving decryption key's to Moonstruck builds (All builds are encrypted and can only be used when the backend server authorizes them for security).
+Third-party components are credited where applicable. Moonstruck is closed source; this repository distributes official standalone builds.
 
 ---
+
 <div align="center">
 
-### MOONSTRUCK
-
-**a project of Somebody0001**
-
-`b18`
+**MOONSTRUCK**  
+Eaglercraft, refined.
 
 </div>
