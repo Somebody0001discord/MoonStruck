@@ -69,8 +69,6 @@ When reporting a bug, include your Moonstruck version, Minecraft version, browse
 
 Created by **Somebody0001**. Built on **EaglercraftX**.
 
-Third-party components are credited where applicable. Moonstruck is closed source; this repository distributes official standalone builds.
-
 ---
 
 <div align="center">
