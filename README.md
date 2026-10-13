@@ -17,7 +17,7 @@ A project of **Somebody0001**
 > **Release notice**
 >
 > The **1.1.20 HTML download is coming soon**.
-> **b18 will be retired on October 12, 2026.** Update when the new file becomes available.
+> **b18 will be retired on October 16, 2026.** Update when the new file becomes available.
 
 ## Features
 
