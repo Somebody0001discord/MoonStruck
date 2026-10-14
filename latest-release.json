@@ -1,27 +1,27 @@
 {
     "schemaVersion":  3,
-    "release":  "1.1.20",
-    "releaseNumber":  23,
+    "release":  "1.1.10",
+    "releaseNumber":  22,
     "status":  "stable",
-    "publishedAt":  "2026-10-11T17:53:43.7679684Z",
-    "message":  "Moonstruck 1.1.20 is available.",
+    "publishedAt":  "2026-10-11T00:48:14.1352884Z",
+    "message":  "Moonstruck 1.1.10 is available.",
     "channels":  {
                      "Open":  {
                                   "Public":  {
                                                  "1.8.8":  {
-                                                               "file":  "Moonstruck_1.1.20_Open_1.8.8.html",
-                                                               "sha256":  "68700e6838d9f0fc77e26378ecec824eb2e4929463ca060ace7594a733082708",
-                                                               "buildHash":  "acd738c6858deee7f43fa5427eee7c5f0f9a9f362010694d9819dcf8d9e42c9f",
-                                                               "authRelease":  "b2301",
+                                                               "file":  "Moonstruck_1.1.10_Open_1.8.8.html",
+                                                               "sha256":  "5e30c00fdd5ed90eb1e7b3490bb212fee2b8e954e0a63d9100a1334499fc75d0",
+                                                               "buildHash":  "58771c89fcba19f3081c8dc8ce26959ba4e2b3ae5073d43e268d9cb644fe09a9",
+                                                               "authRelease":  "b2201",
                                                                "accountMode":  "Open",
                                                                "edition":  "Public",
                                                                "target":  "1.8.8"
                                                            },
                                                  "1.12.2":  {
-                                                                "file":  "Moonstruck_1.1.20_Open_1.12.2.html",
-                                                                "sha256":  "a0246a16222c1bac8e7474e5d68a33bb57f98b104de7b1e8d4cd9750a21f2708",
-                                                                "buildHash":  "781ba6f60c44acbb2dc5aa049f32278737464a08a584374ab77b118b04c10a1c",
-                                                                "authRelease":  "b2302",
+                                                                "file":  "Moonstruck_1.1.10_Open_1.12.2.html",
+                                                                "sha256":  "ebe8ebd4ec0c5d18ecb3907849b383a09198221a1b447cb396dcf55e0efb67e3",
+                                                                "buildHash":  "df5109c9ee49dacab89c1b168cc7afce41dd02d64bb595c129cc55052cc3c087",
+                                                                "authRelease":  "b2202",
                                                                 "accountMode":  "Open",
                                                                 "edition":  "Public",
                                                                 "target":  "1.12.2"
@@ -29,19 +29,19 @@
                                              },
                                   "Yeezus":  {
                                                  "1.8.8":  {
-                                                               "file":  "Moonstruck_Yeezus_1.1.20_Open_1.8.8.html",
-                                                               "sha256":  "fd11270921d61b20e825e61f093008b61671c4ccc884e5ac1ed5f618b5d5574a",
-                                                               "buildHash":  "a304bb8c5f4189e5f2e8f4592d5e36e5bb2f35de98720fc8f2ab382968246737",
-                                                               "authRelease":  "b2303",
+                                                               "file":  "Moonstruck_Yeezus_1.1.10_Open_1.8.8.html",
+                                                               "sha256":  "bdba34ba0d3075dd1a68390b70af337bd924affdfe68d52d01c7d258f9cd06fb",
+                                                               "buildHash":  "384781efee00229d724688a90f289ac5ae6481d900371e04f1f729f92296b039",
+                                                               "authRelease":  "b2203",
                                                                "accountMode":  "Open",
                                                                "edition":  "Yeezus",
                                                                "target":  "1.8.8"
                                                            },
                                                  "1.12.2":  {
-                                                                "file":  "Moonstruck_Yeezus_1.1.20_Open_1.12.2.html",
-                                                                "sha256":  "5af7e7a856a293a58ca83959b3bf88b243c3c4420c503f335481353a8e4227e0",
-                                                                "buildHash":  "b3e48429644c887a8fe9f8ea9fbc6c94dc62c43b45675e23618bb4078f69eaed",
-                                                                "authRelease":  "b2304",
+                                                                "file":  "Moonstruck_Yeezus_1.1.10_Open_1.12.2.html",
+                                                                "sha256":  "feddf011ad5e3f86f59d39fc6ea5fdf4f54fb38cce39fedb492b971134855af4",
+                                                                "buildHash":  "ab5169a9fc76265b275be9a7c2fe8d525866eb848eceeab17e8be0e53a5789ec",
+                                                                "authRelease":  "b2204",
                                                                 "accountMode":  "Open",
                                                                 "edition":  "Yeezus",
                                                                 "target":  "1.12.2"
@@ -51,19 +51,19 @@
                      "Owner":  {
                                    "Public":  {
                                                   "1.8.8":  {
-                                                                "file":  "Moonstruck_1.1.20_Owner_1.8.8.html",
-                                                                "sha256":  "9084f70fec95fac95314afe7f6ec84a619316b8f7df36bf7ce0655f4dbb3f39d",
-                                                                "buildHash":  "0ec8f53e270f6034a8dc33553f2312f7f8bb0d66a22cb05c19fe281533d43a2a",
-                                                                "authRelease":  "b2305",
+                                                                "file":  "Moonstruck_1.1.10_Owner_1.8.8.html",
+                                                                "sha256":  "0d3993468e247e6e1a0e673add5f9d36b447ebeece44c42476d378320be8f17b",
+                                                                "buildHash":  "b9b4e95a2b32c335f8c1ac79559ab9a5062e647d6590966d8beb4995b641c7f0",
+                                                                "authRelease":  "b2205",
                                                                 "accountMode":  "Owner",
                                                                 "edition":  "Public",
                                                                 "target":  "1.8.8"
                                                             },
                                                   "1.12.2":  {
-                                                                 "file":  "Moonstruck_1.1.20_Owner_1.12.2.html",
-                                                                 "sha256":  "fb7ce40ede56e6632e20e854983ef9fa3faae14c30bfc3620b8454c1baf7f8a1",
-                                                                 "buildHash":  "a52be12ff5330b7ef70bf28ad523c2030dc3f8b3e7f0bc028c3d9944a54856e8",
-                                                                 "authRelease":  "b2306",
+                                                                 "file":  "Moonstruck_1.1.10_Owner_1.12.2.html",
+                                                                 "sha256":  "714bbec9e5747ab9e266a032a6d000e8c60cd0021f912995a2597957571f522a",
+                                                                 "buildHash":  "faaefbe13c7f66b18d09ac7a3cc1d7ca71e788160c69213f12cdbeea80ea8316",
+                                                                 "authRelease":  "b2206",
                                                                  "accountMode":  "Owner",
                                                                  "edition":  "Public",
                                                                  "target":  "1.12.2"
@@ -71,19 +71,19 @@
                                               },
                                    "Yeezus":  {
                                                   "1.8.8":  {
-                                                                "file":  "Moonstruck_Yeezus_1.1.20_Owner_1.8.8.html",
-                                                                "sha256":  "21a83b84f03df4006622973638dbb355c30f4df323358226aba296d2cc42d365",
-                                                                "buildHash":  "7645be911769b0056ca365a27d18984a7278386f3c74e35c6ea1912a84e1e87b",
-                                                                "authRelease":  "b2307",
+                                                                "file":  "Moonstruck_Yeezus_1.1.10_Owner_1.8.8.html",
+                                                                "sha256":  "aee512cb4d34882d2fef78c7fcc1ed4602819c7ef94f6ef68683c9e1e7da6024",
+                                                                "buildHash":  "93662404172bada195a40faaa052975cc68094608a9d723aa6e3b42dd26c1496",
+                                                                "authRelease":  "b2207",
                                                                 "accountMode":  "Owner",
                                                                 "edition":  "Yeezus",
                                                                 "target":  "1.8.8"
                                                             },
                                                   "1.12.2":  {
-                                                                 "file":  "Moonstruck_Yeezus_1.1.20_Owner_1.12.2.html",
-                                                                 "sha256":  "7c5c2457b50539a4c646ff1b52e946398781223879462fe3f2019d47afb1e18b",
-                                                                 "buildHash":  "371899075d8e9955c9aa7514e929dd6e4e2fea2131724d7403d3a3f61e9fb67f",
-                                                                 "authRelease":  "b2308",
+                                                                 "file":  "Moonstruck_Yeezus_1.1.10_Owner_1.12.2.html",
+                                                                 "sha256":  "92007165f97bf5e1a9b73bd39d8852c0880a7b2e14f6cd5ee76f14f530cbe296",
+                                                                 "buildHash":  "15c9cbb7fe2dd4862526e8c79f6bdf8e473a3a3e8447af633e3911faf5a32817",
+                                                                 "authRelease":  "b2208",
                                                                  "accountMode":  "Owner",
                                                                  "edition":  "Yeezus",
                                                                  "target":  "1.12.2"
