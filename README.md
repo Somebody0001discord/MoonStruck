@@ -63,12 +63,6 @@ Fresh installations start with **fog off**, **VSync on**, and **Background Effic
 **Moonlight Mondays** bring feature updates.  
 **Bugfix Fridays** focus on fixes.
 
-## Credits
-
-Created by **Somebody0001**. Built on **EaglercraftX**.
-
-Third-party components are credited where applicable. This repository distributes official standalone Moonstruck builds.
-
 ---
 
 <div align="center">
